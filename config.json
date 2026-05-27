@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configvalidate",
+        "uuid": 11225266,
+        "checksum": "85pk6j"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
